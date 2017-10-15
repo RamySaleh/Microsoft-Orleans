@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.GrainInterfaces", "IoT.GrainInterfaces\IoT.GrainInterfaces.csproj", "{67425523-E5E4-48D9-9486-F4BBD7C71C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.GrainImplementation", "IoT.GrainImplementation\IoT.GrainImplementation.csproj", "{81FC74A2-B928-4633-8B75-1548B38DCA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.DevTest", "IoT.DevTest\IoT.DevTest.csproj", "{E6F0815B-AB41-424D-AA53-FE6EDA05BA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67425523-E5E4-48D9-9486-F4BBD7C71C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67425523-E5E4-48D9-9486-F4BBD7C71C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67425523-E5E4-48D9-9486-F4BBD7C71C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67425523-E5E4-48D9-9486-F4BBD7C71C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FC74A2-B928-4633-8B75-1548B38DCA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FC74A2-B928-4633-8B75-1548B38DCA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FC74A2-B928-4633-8B75-1548B38DCA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FC74A2-B928-4633-8B75-1548B38DCA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F0815B-AB41-424D-AA53-FE6EDA05BA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F0815B-AB41-424D-AA53-FE6EDA05BA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F0815B-AB41-424D-AA53-FE6EDA05BA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F0815B-AB41-424D-AA53-FE6EDA05BA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
